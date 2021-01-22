@@ -1,3 +1,5 @@
+FROM MASTER
+
 TwoFactorAuth.org
 =================
 
